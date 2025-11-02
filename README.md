@@ -1,2 +1,3 @@
 # Preposal
-## ideas for final project
+
+see preposal.md
